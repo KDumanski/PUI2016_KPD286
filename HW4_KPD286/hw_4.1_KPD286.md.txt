@@ -1,0 +1,13 @@
+HW 4.1 KPD286
+
+I reviewed Ben Alpert’s assignment located here: https://github.com/bja282/PUI2016_bja282/blob/master/HW3_bja282/HW3_Assignment2.ipynb
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+The null hypothesis is formatted correctly.  There is no listed alternative hypothesis but Ben could have written” The ratio of bike trips on weekdays during rush hours, 7-10 AM and 4-7 PM, is higher compared to the same hours on weekdays.”  However, more information must be understood about citibike ridership to know if the number of rides taking place during commuting hours actually is being used by people commuting to and from work or for other purposes.  
+  
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
+The data correctly supports his assessment and was processed very well.  He utilized the Pandas features to create columns for rush hour and off peak columns. 
+
+c. Choose an appropriate test to test H0 given the type of data, and the question asked.
+An Anova test can be used to determine if the mean ridership levels at individual days of the week vary based on rush hour and non rush hour ridership.  
+
