@@ -1,0 +1,14 @@
+•	Do diets help lose more fat than the exercise?
+Null More participants who participate in diet will lose weight then those who don’t.  
+Alternate The same amount of less participants who participate in diet will lose weight then those who don’t.
+•	Do American trust the president?
+Null 50 percent of respondents more or will answer no.
+Alternate More than 50 percent of respondents will answer yes.  
+•	Effectiveness of nicotine patches to quit smoking.
+Null More participants who use the nicotine patch will cease smoking then those who use placebo.
+Alternate The same amount of participants or less who use the nicotine patch will cease smoking then those who use placebo.
+•	Quantify the danger of smoking for pregnant women.
+Experimental setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
+Null More children who have smoking parents have lower average iqs than those who do not. 
+Alternate The children with smoking parents will have the same or greater iqs than those with who have parents that did not smoke.
+
