@@ -1,0 +1,21 @@
+The report is on the authorea website here
+https://www.authorea.com/users/106940/articles/134322/_show_article?access_token=c_GNUXrT4ZCBk3ogqx_nMw
+
+
+
+Below is what I wrote.  
+Gender ridership difference between day and night in New York City Bikesharing.  
+By Keith Dumanski
+Abstract 
+New York City Citybike is a bike share program that serves parts of New York City and New Jersey.  Since its inception in 2011, the new form of public transit has seen increasing ridership becoming the most utilized bike sharing program in the United States.  As the program has grown, so have been concerns over its perceptions of safety in the turbulent streets of New York City.  However, the program has far fewer female users then men.  Experts have attributed that a lesser percentage of women use the bike sharing service then men due may be safety concerns.  Sarah Kaufman, assistant director of technology programing at the Rudin Center claimed in a 2015 report “If you have more women riders it means it is convenient and safe” (1).  
+In this experiment, I tested to learn if lower percentage of female riders at night then during the day.  Criminal activity is generally perceived to be more prevalent during the night and a different ratio of ridership may be an indicator that these safety concerns may be reflected to citybike ridership.    
+The null hypothesis is = ratio of man biking at night (between 9 pm to 5:59 am) compared to women is less than or equal than man biking during the day 6 am to 8:59 pm compared to women. 
+Alternate hypothesis= ratio of man biking at night (between 9 pm to 5:59 am) compared to women is higher than man biking during the day 6 am to 8:59 pm compared to women.
+Data 
+The data I used is the is monthly citibike ridership available at: https://www.citibikenyc.com/system-data  As is true in all scientific studies, it is important to note the measures that were taken to reduce sampling error.  I merged the entirety of 2015 data into one dataframe so as to reduce biases cause by differing ridership patterns caused by different seasons.  The sample set data was randomized by using the Numpy random function.  The start time data was converted to date time format and rows were created to differentiate male and female riders.  
+Analysis 
+This was not completed but I could have plotted genders as independent variables and the different time as dependent variables to assess ridership levels.  
+In addition, a chi-squared test could have been used to determine the statistical significance of the findings.  
+Result 
+Results are not available.  I assume they would show that the ratio of female bikers at night is lower than during the day.  This could be measured against other dependent variables that compare perceptions of danger during the night versus the day .  Additional testing may be done.  
+1.	http://www.nytimes.com/2015/07/08/nyregion/a-mission-for-citi-bike-recruiting-more-female-cyclists.html

@@ -1,0 +1,1 @@
+I did the first assignment with the help of the Sunday study group and worked closely with esnglez.  I did the second assignment by myself with the input of the reviewers.
