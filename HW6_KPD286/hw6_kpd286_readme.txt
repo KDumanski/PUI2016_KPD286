@@ -1,1 +1,0 @@
-I did my first assignment with the help of the sunday study group and with esg336
