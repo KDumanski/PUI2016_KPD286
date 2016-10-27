@@ -1,0 +1,1 @@
+I did this homework by myself.  I tried to make it relivant to my work and made charts for my job.  Unfortunatly the data I needed was only available inside pf PDF's so I had to manually create a database.  
