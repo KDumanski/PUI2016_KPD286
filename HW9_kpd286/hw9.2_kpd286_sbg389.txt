@@ -1,0 +1,14 @@
+Plot review for  sbg389
+https://github.com/sbg389/PUI2016_sbg389/blob/master/HW7_sbg389/HW7_Assignment_I.ipynb
+
+Clarity
+The plot is very comprehensible though it is a bit confusing to understand the context of Prediction A and Prediction B.   It might have been useful to cut out the 1950’s decade and 2015-20 since there are no values in the ranges.  If the author wants to show prediction for future GDP, perhaps he or she can extend the regressions into future years.
+
+Aesthetic
+I believe the color scheme is very attractive though the dotted line symbolizing Uruguayan GDP is hard to comprehend.  I like how the color of the blue matches the Uruguayan flag.  I think the colors of the red and green might be a bit severe and it might be better to use more neutral colors.  
+
+Honesty
+The plot does not cite a data source so it might not be fully subject to scientific analysis.  
+
+General Comments
+The plot is very informative and it is really exciting to see how quickly Uruguay’s economy has grown in recent years.  It might be interesting to find another variable to compare the grown to and plot on the third access to see if there is correlation.  

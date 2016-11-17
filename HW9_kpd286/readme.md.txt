@@ -1,0 +1,1 @@
+I did the assignnments by myself except I copied the internet broadband usage code cell of code from sp4356

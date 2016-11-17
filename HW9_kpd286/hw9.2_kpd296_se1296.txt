@@ -1,0 +1,12 @@
+Plot review for se1296
+https://github.com/selyukin/PUI2016_se1296/blob/master/HW7_se1296/HW7_Plot.ipynb
+Review
+
+Clarity
+Perhaps it would be good to include dollar signs or something else on the Y Axis to show a momentary value and write miles or include a M symbol to show miles on the X axis?  The author’s footnote is very useful in explaining the context of the plot.  
+Aesthetic
+The plot is very easy to read and also serve a utility of showing tipping patterns.  The use of a grid allows for the points to be better understood.  The use of the off white pink color helps separate the plot from the background.  Also, the trips legend seems a bit small would it be possible to enlarge?  The regression is also not indicated or labeled in the key.  
+Honesty
+The plot does not cite a data sources on the image so it might be doubtful for a Does this plot included all tips given or is it just a sample set? The plot might be improved if this context is added.  
+General Comments
+The plot is very informative and it is really interesting to compare to my anecdotal experience of taxi cab drivers telling they prefer shorter trips.  What is the range of dates this data was taken? Perhaps a comparison to a different range of dates may indicate a different trend.  For example, different types of riders may use green cabs during the winter and summer and tip amounts might vary during holidays.  
