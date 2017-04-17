@@ -1,119 +1,118 @@
-Complaint_Type	number	dt	Descriptor	Location_Type
-NYPD	1	6/20/2016	Noise - Residential	Loud Music/Party
-DEP	1	6/21/2016	Noise	Noise: Alarms (NR3)
-NYPD	1	6/21/2016	Noise - Commercial	Banging/Pounding
-NYPD	1	6/22/2016	Noise - Commercial	Banging/Pounding
-DEP	1	6/23/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	6/23/2016	Noise - Commercial	Car/Truck Horn
-NYPD	1	6/23/2016	Noise - Commercial	Car/Truck Horn
-DEP	1	6/23/2016	Noise	Noise, Barking Dog (NR5)
-NYPD	1	6/23/2016	Noise - Residential	Loud Talking
-NYPD	1	6/24/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/24/2016	Noise - Residential	Banging/Pounding
-DEP	1	6/24/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	6/24/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-DEP	1	6/25/2016	Noise	Noise: Manufacturing Noise (NK1)
-DEP	1	6/25/2016	Noise	Noise: Jack Hammering (NC2)
-DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Commercial	Loud Talking
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Commercial	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Commercial	Loud Music/Party
-NYPD	1	6/26/2016	Noise - Commercial	Loud Talking
-DEP	1	6/26/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	6/27/2016	Noise	Noise: air condition/ventilation equipment (NV1)
-DEP	1	6/28/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	6/28/2016	Noise	Noise: air condition/ventilation equipment (NV1)
-NYPD	1	6/28/2016	Noise - Residential	Banging/Pounding
-NYPD	1	6/28/2016	Noise - Commercial	Loud Music/Party
-NYPD	1	6/28/2016	Noise - Commercial	Loud Music/Party
-DEP	1	6/29/2016	Noise	Noise: Jack Hammering (NC2)
-NYPD	1	6/30/2016	Noise - Residential	Loud Talking
-NYPD	1	6/30/2016	Noise - Residential	Banging/Pounding
-NYPD	1	6/30/2016	Noise - Residential	Loud Music/Party
-DEP	1	6/30/2016	Noise	Noise: air condition/ventilation equipment (NV1)
-NYPD	1	7/1/2016	Noise - Commercial	Loud Music/Party
-NYPD	1	7/1/2016	Noise - Residential	Loud Talking
-NYPD	1	7/1/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/1/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/1/2016	Noise	Noise: Alarms (NR3)
-NYPD	1	7/1/2016	Noise - Commercial	Car/Truck Horn
-NYPD	1	7/1/2016	Noise - Commercial	Car/Truck Horn
-NYPD	1	7/2/2016	Noise - Commercial	Car/Truck Horn
-NYPD	1	7/2/2016	Noise - Commercial	Banging/Pounding
-DEP	1	7/2/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/2/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/2/2016	Noise	Noise, Ice Cream Truck (NR4)
-DEP	1	7/2/2016	Noise	Noise: Jack Hammering (NC2)
-DEP	1	7/2/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/3/2016	Noise - Commercial	Banging/Pounding
-NYPD	1	7/3/2016	Noise - Commercial	Banging/Pounding
-DEP	1	7/3/2016	Noise	Noise: Jack Hammering (NC2)
-DEP	1	7/3/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/3/2016	Noise - Residential	Banging/Pounding
-DEP	1	7/3/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/4/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/4/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/5/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/5/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/5/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	7/5/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	7/5/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/6/2016	Noise - Residential	Banging/Pounding
-DEP	1	7/6/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/7/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/7/2016	Noise	Noise: Alarms (NR3)
-NYPD	1	7/8/2016	Noise - Commercial	Car/Truck Music
-DEP	1	7/8/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/8/2016	Noise - Residential	Banging/Pounding
-DEP	1	7/8/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
-DEP	1	7/9/2016	Noise	Noise: Construction Before/After Hours (NM1)
-DEP	1	7/9/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
-NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
-NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
-DEP	1	7/9/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/10/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/10/2016	Noise	Noise: air condition/ventilation equipment (NV1)
-NYPD	1	7/10/2016	Noise - Commercial	Loud Music/Party
-NYPD	1	7/11/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/11/2016	Noise	Noise: Alarms (NR3)
-DEP	1	7/11/2016	Noise	Noise: air condition/ventilation equipment (NV1)
-NYPD	1	7/11/2016	Noise - Commercial	Loud Music/Party
-DEP	1	7/11/2016	Noise	Noise: Construction Before/After Hours (NM1)
-NYPD	1	7/11/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/11/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/12/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/12/2016	Noise - Residential	Loud Music/Party
-DEP	1	7/12/2016	Noise	Noise: Construction Equipment (NC1)
-NYPD	1	7/12/2016	Noise - Commercial	Banging/Pounding
-NYPD	1	7/13/2016	Noise - Residential	Loud Music/Party
-NYPD	1	7/13/2016	Noise - Commercial	Loud Talking
-NYPD	1	7/13/2016	Noise - Commercial	Banging/Pounding
-DEP	1	7/13/2016	Noise	Noise: Construction Equipment (NC1)
-NYPD	1	7/13/2016	Noise - Residential	Banging/Pounding
-NYPD	1	7/14/2016	Noise - Residential	Banging/Pounding
-				
+Unique Key,Created Date,Closed Date,Agency,Agency Name,Complaint Type,Descriptor,Location Type,Incident Zip,number
+33648024,6/20/2016 22:04,6/20/2016 23:12,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33654645,6/21/2016 14:14,6/21/2016 15:07,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,1
+33655882,6/21/2016 13:39,6/29/2016 16:15,DEP,Department of Environmental Protection,Noise,Noise: Alarms (NR3),,11231,1
+33663657,6/22/2016 8:10,6/22/2016 9:04,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Club/Bar/Restaurant,11231,1
+33668352,6/23/2016 10:40,6/23/2016 12:07,NYPD,New York City Police Department,Noise - Commercial,Car/Truck Horn,Store/Commercial,11231,1
+33669342,6/23/2016 10:38,6/23/2016 12:07,NYPD,New York City Police Department,Noise - Commercial,Car/Truck Horn,Store/Commercial,11231,1
+33670617,6/23/2016 4:59,6/24/2016 7:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33671392,6/23/2016 20:38,6/27/2016 12:02,DEP,Department of Environmental Protection,Noise,"Noise, Barking Dog (NR5)",,11231,1
+33672693,6/24/2016 1:03,6/24/2016 8:23,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33673413,6/23/2016 22:17,6/23/2016 23:10,NYPD,New York City Police Department,Noise - Residential,Loud Talking,Residential Building/House,11231,1
+33676010,6/24/2016 22:50,6/25/2016 0:25,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33677633,6/25/2016 1:29,6/25/2016 6:08,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33682199,6/24/2016 21:02,6/28/2016 21:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33683843,6/24/2016 14:53,6/24/2016 17:55,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33684418,6/25/2016 10:07,7/2/2016 13:15,DEP,Department of Environmental Protection,Noise,Noise: Jack Hammering (NC2),,11231,1
+33684541,6/25/2016 21:38,6/25/2016 23:08,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33684562,6/25/2016 15:57,7/2/2016 9:15,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33684587,6/25/2016 11:00,7/2/2016 13:15,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33684648,6/25/2016 21:01,6/25/2016 23:07,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33685048,6/25/2016 7:54,7/2/2016 13:45,DEP,Department of Environmental Protection,Noise,Noise: Manufacturing Noise (NK1),,11231,1
+33686133,6/25/2016 23:59,6/26/2016 2:39,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33686304,6/25/2016 23:03,6/25/2016 23:36,NYPD,New York City Police Department,Noise - Commercial,Loud Talking,Club/Bar/Restaurant,11231,1
+33686319,6/26/2016 0:52,6/26/2016 1:01,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33686977,6/25/2016 23:49,6/26/2016 2:39,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33687024,6/26/2016 0:54,6/26/2016 1:02,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33687244,6/25/2016 21:50,6/25/2016 23:08,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33687317,6/26/2016 0:56,6/26/2016 1:11,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33687975,6/25/2016 22:28,6/25/2016 23:16,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33688127,6/25/2016 13:38,7/2/2016 8:30,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33689037,6/25/2016 21:35,6/25/2016 23:08,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33689100,6/25/2016 3:00,6/25/2016 3:22,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33689106,6/25/2016 22:38,6/25/2016 23:16,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33689836,6/25/2016 22:53,6/25/2016 23:16,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33690717,6/26/2016 0:27,6/26/2016 1:01,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33690876,6/26/2016 0:17,6/26/2016 5:49,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33692093,6/26/2016 10:23,6/26/2016 11:05,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Club/Bar/Restaurant,11231,1
+33692208,6/26/2016 9:31,6/26/2016 10:01,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Club/Bar/Restaurant,11231,1
+33692284,6/26/2016 22:52,7/3/2016 14:15,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33695079,6/26/2016 11:12,6/26/2016 11:22,NYPD,New York City Police Department,Noise - Commercial,Loud Talking,Club/Bar/Restaurant,11231,1
+33704964,6/27/2016 10:32,7/6/2016 12:30,DEP,Department of Environmental Protection,Noise,Noise: air condition/ventilation equipment (NV1),,11231,1
+33706171,6/28/2016 10:26,6/29/2016 10:27,DEP,Department of Environmental Protection,Noise,Noise: air condition/ventilation equipment (NV1),,11231,1
+33709934,6/28/2016 10:08,7/15/2016 13:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33710062,6/28/2016 17:57,6/28/2016 18:31,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33711127,6/28/2016 23:06,6/28/2016 23:57,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Club/Bar/Restaurant,11231,1
+33713846,6/28/2016 22:53,6/29/2016 4:05,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Store/Commercial,11231,1
+33716804,6/30/2016 1:48,6/30/2016 2:29,NYPD,New York City Police Department,Noise - Residential,Loud Talking,Residential Building/House,11231,1
+33726751,6/30/2016 23:45,7/8/2016 21:57,DEP,Department of Environmental Protection,Noise,Noise: air condition/ventilation equipment (NV1),,11231,1
+33727317,6/30/2016 15:56,6/30/2016 20:27,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33730474,7/1/2016 0:33,7/1/2016 3:39,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Store/Commercial,11231,1
+33731396,6/30/2016 22:05,7/1/2016 0:51,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33733238,7/1/2016 19:12,7/1/2016 22:36,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33735420,7/1/2016 22:58,7/5/2016 13:00,DEP,Department of Environmental Protection,Noise,Noise: Alarms (NR3),,11231,1
+33735945,7/1/2016 23:12,7/2/2016 2:39,NYPD,New York City Police Department,Noise - Commercial,Car/Truck Horn,Store/Commercial,11231,1
+33737201,7/1/2016 11:30,7/1/2016 16:51,NYPD,New York City Police Department,Noise - Residential,Loud Talking,Residential Building/House,11231,1
+33737890,7/1/2016 22:24,7/1/2016 23:14,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33737924,7/1/2016 23:20,7/2/2016 2:39,NYPD,New York City Police Department,Noise - Commercial,Car/Truck Horn,Store/Commercial,11231,1
+33740387,7/2/2016 6:01,7/2/2016 6:31,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,1
+33741502,7/2/2016 12:02,7/9/2016 8:30,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33742288,7/2/2016 16:03,7/9/2016 12:00,DEP,Department of Environmental Protection,Noise,Noise: Jack Hammering (NC2),,11231,1
+33742944,7/2/2016 5:54,7/2/2016 6:28,NYPD,New York City Police Department,Noise - Commercial,Car/Truck Horn,Store/Commercial,11231,1
+33743886,7/2/2016 15:03,7/2/2016 17:19,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33743992,7/2/2016 15:31,7/5/2016 16:45,DEP,Department of Environmental Protection,Noise,"Noise, Ice Cream Truck (NR4)",,11231,1
+33746438,7/2/2016 17:06,7/9/2016 9:15,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33747042,7/3/2016 8:38,7/3/2016 9:30,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,1
+33748593,7/3/2016 8:40,7/3/2016 9:24,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,1
+33749486,7/3/2016 23:35,7/4/2016 8:24,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33750409,7/3/2016 23:59,7/4/2016 8:24,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33750927,7/3/2016 23:15,7/4/2016 8:24,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33751149,7/3/2016 23:23,7/4/2016 8:25,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33751584,7/3/2016 12:11,7/3/2016 13:46,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33754596,7/4/2016 9:18,7/6/2016 11:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33757836,7/4/2016 23:06,7/5/2016 4:52,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33760639,7/5/2016 15:42,7/5/2016 21:21,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33765187,7/5/2016 18:29,7/8/2016 1:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33766083,7/5/2016 22:03,7/8/2016 1:15,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33766173,7/5/2016 3:27,7/5/2016 6:28,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33768436,7/6/2016 17:07,7/6/2016 18:29,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33778619,7/8/2016 0:16,7/8/2016 5:01,NYPD,New York City Police Department,Noise - Commercial,Car/Truck Music,Store/Commercial,11231,1
+33782139,7/7/2016 20:41,7/12/2016 9:15,DEP,Department of Environmental Protection,Noise,Noise: Alarms (NR3),,11231,1
+33786202,7/7/2016 19:06,7/7/2016 20:38,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33790967,7/8/2016 20:54,7/9/2016 1:43,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33791425,7/8/2016 11:49,7/12/2016 8:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33792559,7/9/2016 0:52,7/9/2016 1:35,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33798185,7/9/2016 15:52,7/9/2016 19:21,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33801389,7/9/2016 15:54,7/9/2016 19:21,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33801390,7/9/2016 15:48,7/9/2016 19:21,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33802246,7/10/2016 0:10,7/10/2016 2:30,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33808670,7/10/2016 17:45,7/10/2016 19:56,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Store/Commercial,11231,1
+33810602,7/12/2016 0:06,7/12/2016 0:09,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33811112,7/11/2016 11:50,7/12/2016 10:00,DEP,Department of Environmental Protection,Noise,Noise: Alarms (NR3),,11231,1
+33813019,7/12/2016 1:29,7/12/2016 4:57,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33814014,7/11/2016 23:45,7/12/2016 0:40,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33815570,7/11/2016 13:38,7/15/2016 11:00,DEP,Department of Environmental Protection,Noise,Noise: air condition/ventilation equipment (NV1),,11231,1
+33817376,7/11/2016 15:01,7/11/2016 15:45,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,Club/Bar/Restaurant,11231,1
+33817419,7/11/2016 2:51,7/11/2016 6:20,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33817490,7/11/2016 23:11,7/12/2016 0:08,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33819523,7/12/2016 23:13,7/13/2016 1:24,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,1
+33826866,7/12/2016 16:23,7/13/2016 13:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Equipment (NC1),,11231,1
+33828340,7/13/2016 16:32,7/13/2016 19:01,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33828421,7/13/2016 3:24,7/13/2016 3:41,NYPD,New York City Police Department,Noise - Residential,Loud Music/Party,Residential Building/House,11231,1
+33830527,7/13/2016 10:21,7/13/2016 10:43,NYPD,New York City Police Department,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,1
+33831714,7/13/2016 10:17,7/13/2016 10:47,NYPD,New York City Police Department,Noise - Commercial,Loud Talking,Store/Commercial,11231,1
+33842782,7/14/2016 17:53,7/14/2016 22:24,NYPD,New York City Police Department,Noise - Residential,Banging/Pounding,Residential Building/House,11231,1
+33770941,7/6/2016 20:11,7/11/2016 19:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33830026,7/13/2016 10:34,7/18/2016 22:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Equipment (NC1),,11231,1
+33798652,7/9/2016 9:35,7/16/2016 13:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33802604,7/9/2016 11:09,7/16/2016 12:00,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33689686,6/25/2016 21:01,7/2/2016 8:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33714681,6/29/2016 7:58,7/2/2016 8:00,DEP,Department of Environmental Protection,Noise,Noise: Jack Hammering (NC2),,11231,1
+33747917,7/3/2016 13:44,7/10/2016 15:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33747990,7/3/2016 8:44,7/10/2016 15:45,DEP,Department of Environmental Protection,Noise,Noise: Jack Hammering (NC2),,11231,1
+33751069,7/3/2016 9:06,7/10/2016 15:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33762812,7/5/2016 18:08,7/8/2016 1:45,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33789286,7/8/2016 23:53,7/12/2016 22:15,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33799451,7/9/2016 17:26,7/16/2016 14:30,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
+33805580,7/10/2016 4:58,7/14/2016 16:15,DEP,Department of Environmental Protection,Noise,Noise: air condition/ventilation equipment (NV1),,11231,1
+33810053,7/11/2016 20:51,7/13/2016 0:30,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),,11231,1
