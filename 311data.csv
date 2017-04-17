@@ -1,4 +1,4 @@
-Created Date,Agency,Complaint Type,Descriptor,Location Type,Incident Zip,Incident Address
+dt,Agency,Complaint_Type,Descriptor,Location_Type,Incident Zip,Incident_Address
 6/20/2016 22:04,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11231,70 BUSH STREET
 6/21/2016 13:39,DEP,Noise,Noise: Alarms (NR3),,11231,39 COFFEY STREET
 6/21/2016 14:14,NYPD,Noise - Commercial,Banging/Pounding,Store/Commercial,11231,175 DIKEMAN STREET
