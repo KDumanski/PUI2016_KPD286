@@ -1,118 +1,119 @@
-Complaint_Type	number	Descriptor	Location_Type	Incident Zip	Incident_Address	address	dt
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	70 BUSH STREET	6/20/2016
-DEP	1	Noise	Noise: Alarms (NR3)		11231	39 COFFEY STREET	6/21/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Store/Commercial	11231	175 DIKEMAN STREET	6/21/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Club/Bar/Restaurant	11231	SMITH STREET	6/22/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	344 DEGRAW STREET	6/23/2016
-NYPD	1	Noise - Commercial	Car/Truck Horn	Store/Commercial	11231	175 DIKEMAN STREET	6/23/2016
-NYPD	1	Noise - Commercial	Car/Truck Horn	Store/Commercial	11231	175 DIKEMAN STREET	6/23/2016
-DEP	1	Noise	Noise, Barking Dog (NR5)		11231	366 PRESIDENT STREET	6/23/2016
-NYPD	1	Noise - Residential	Loud Talking	Residential Building/House	11231	177 COLUMBIA STREET	6/23/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	31 CENTRE MALL	6/24/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	80 DWIGHT STREET	6/24/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231		6/24/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	93 BUTLER STREET	6/24/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	2 PLACE	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	6 STRONG PLACE	6/25/2016
-DEP	1	Noise	Noise: Manufacturing Noise (NK1)		11231	435 HOYT STREET	6/25/2016
-DEP	1	Noise	Noise: Jack Hammering (NC2)		11231	542 CLINTON STREET	6/25/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	546 CLINTON STREET	6/25/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	473 UNION STREET	6/25/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	450 HENRY STREET	6/25/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	20 CARROLL STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	11 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	17 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	17 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	11 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	15 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	11 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Commercial	Loud Talking	Club/Bar/Restaurant	11231	121 COLUMBIA STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	11 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	11 DWIGHT STREET	6/25/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	105 2 PLACE	6/26/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	92 4 PLACE	6/26/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	90 4 PLACE	6/26/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	4 PLACE	6/26/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231		6/26/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Club/Bar/Restaurant	11231	253 VAN BRUNT STREET	6/26/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Club/Bar/Restaurant	11231	215 UNION STREET	6/26/2016
-NYPD	1	Noise - Commercial	Loud Talking	Club/Bar/Restaurant	11231	215 UNION STREET	6/26/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	89 DOUGLASS STREET	6/26/2016
-DEP	1	Noise	Noise: air condition/ventilation equipment (NV1)		11231	175 DIKEMAN STREET	6/27/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	93 DOUGLASS STREET	6/28/2016
-DEP	1	Noise	Noise: air condition/ventilation equipment (NV1)		11231	295 SMITH STREET	6/28/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	80 DWIGHT STREET	6/28/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Store/Commercial	11231	333 COURT STREET	6/28/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Club/Bar/Restaurant	11231	145 PIONEER STREET	6/28/2016
-DEP	1	Noise	Noise: Jack Hammering (NC2)		11231		6/29/2016
-NYPD	1	Noise - Residential	Loud Talking	Residential Building/House	11231	116 4 PLACE	6/30/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	80 DWIGHT STREET	6/30/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	120 DIKEMAN STREET	6/30/2016
-DEP	1	Noise	Noise: air condition/ventilation equipment (NV1)		11231	610 HENRY STREET	6/30/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Store/Commercial	11231	1 COMMERCE STREET	7/1/2016
-NYPD	1	Noise - Residential	Loud Talking	Residential Building/House	11231	365 BOND STREET	7/1/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	9A DWIGHT STREET	7/1/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	9 LORRAINE STREET	7/1/2016
-DEP	1	Noise	Noise: Alarms (NR3)		11231	291 COURT STREET	7/1/2016
-NYPD	1	Noise - Commercial	Car/Truck Horn	Store/Commercial	11231	292 COURT STREET	7/1/2016
-NYPD	1	Noise - Commercial	Car/Truck Horn	Store/Commercial	11231	292 COURT STREET	7/1/2016
-NYPD	1	Noise - Commercial	Car/Truck Horn	Store/Commercial	11231	177 DIKEMAN STREET	7/2/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Store/Commercial	11231	177 DIKEMAN STREET	7/2/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231		7/2/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	59 3 PLACE	7/2/2016
-DEP	1	Noise	Noise, Ice Cream Truck (NR4)		11231	202 COFFEY STREET	7/2/2016
-DEP	1	Noise	Noise: Jack Hammering (NC2)		11231	435 HOYT STREET	7/2/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231		7/2/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Store/Commercial	11231	421 BOND STREET	7/3/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Store/Commercial	11231	177 DIKEMAN STREET	7/3/2016
-DEP	1	Noise	Noise: Jack Hammering (NC2)		11231	421 BOND STREET	7/3/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	421 BOND STREET	7/3/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	495 COLUMBIA STREET	7/3/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	421 BOND STREET	7/3/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	20 DIKEMAN STREET	7/3/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	20 DIKEMAN STREET	7/3/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	26 DIKEMAN STREET	7/3/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	20 DIKEMAN STREET	7/3/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	546 CLINTON STREET	7/4/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231		7/4/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	464 COLUMBIA STREET	7/5/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	25 1 PLACE	7/5/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	241 KANE STREET	7/5/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	241 KANE STREET	7/5/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	BUTLER STREET	7/5/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	80 DWIGHT STREET	7/6/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	131 UNION STREET	7/6/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	9 LORRAINE STREET	7/7/2016
-DEP	1	Noise	Noise: Alarms (NR3)		11231	380 CLINTON STREET	7/7/2016
-NYPD	1	Noise - Commercial	Car/Truck Music	Store/Commercial	11231	3 COMMERCE STREET	7/8/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	92 3 PLACE	7/8/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	108 PIONEER STREET	7/8/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	BUTLER STREET	7/8/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	442 COLUMBIA STREET	7/9/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	93 DOUGLASS STREET	7/9/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	25 TOMPKINS PLACE	7/9/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	80 DWIGHT STREET	7/9/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	38 BUSH STREET	7/9/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	428 COLUMBIA STREET	7/9/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	93 DOUGLASS STREET	7/9/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	89 VERONA STREET	7/10/2016
-DEP	1	Noise	Noise: air condition/ventilation equipment (NV1)		11231	610 HENRY STREET	7/10/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Store/Commercial	11231	700 HICKS STREET	7/10/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	464 COLUMBIA STREET	7/11/2016
-DEP	1	Noise	Noise: Alarms (NR3)		11231	301 DEGRAW STREET	7/11/2016
-DEP	1	Noise	Noise: air condition/ventilation equipment (NV1)		11231	295 SMITH STREET	7/11/2016
-NYPD	1	Noise - Commercial	Loud Music/Party	Club/Bar/Restaurant	11231	43 BAY STREET	7/11/2016
-DEP	1	Noise	Noise: Construction Before/After Hours (NM1)		11231	BUTLER STREET	7/11/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	131 LORRAINE STREET	7/11/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	LORRAINE STREET	7/11/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	131 LORRAINE STREET	7/12/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	17 LORRAINE STREET	7/12/2016
-DEP	1	Noise	Noise: Construction Equipment (NC1)		11231	83 3 STREET	7/12/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Store/Commercial	11231	177 DIKEMAN STREET	7/12/2016
-NYPD	1	Noise - Residential	Loud Music/Party	Residential Building/House	11231	77B VISITATION PLACE	7/13/2016
-NYPD	1	Noise - Commercial	Loud Talking	Store/Commercial	11231	177 DIKEMAN STREET	7/13/2016
-NYPD	1	Noise - Commercial	Banging/Pounding	Store/Commercial	11231	177 DIKEMAN STREET	7/13/2016
-DEP	1	Noise	Noise: Construction Equipment (NC1)		11231	BUTLER STREET	7/13/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	505 COLUMBIA STREET	7/13/2016
-NYPD	1	Noise - Residential	Banging/Pounding	Residential Building/House	11231	39 CENTRE MALL	7/14/2016
+Complaint_Type	number	dt	Descriptor	Location_Type
+NYPD	1	6/20/2016	Noise - Residential	Loud Music/Party
+DEP	1	6/21/2016	Noise	Noise: Alarms (NR3)
+NYPD	1	6/21/2016	Noise - Commercial	Banging/Pounding
+NYPD	1	6/22/2016	Noise - Commercial	Banging/Pounding
+DEP	1	6/23/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	6/23/2016	Noise - Commercial	Car/Truck Horn
+NYPD	1	6/23/2016	Noise - Commercial	Car/Truck Horn
+DEP	1	6/23/2016	Noise	Noise, Barking Dog (NR5)
+NYPD	1	6/23/2016	Noise - Residential	Loud Talking
+NYPD	1	6/24/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/24/2016	Noise - Residential	Banging/Pounding
+DEP	1	6/24/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	6/24/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+DEP	1	6/25/2016	Noise	Noise: Manufacturing Noise (NK1)
+DEP	1	6/25/2016	Noise	Noise: Jack Hammering (NC2)
+DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	6/25/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Commercial	Loud Talking
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/25/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Residential	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Commercial	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Commercial	Loud Music/Party
+NYPD	1	6/26/2016	Noise - Commercial	Loud Talking
+DEP	1	6/26/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	6/27/2016	Noise	Noise: air condition/ventilation equipment (NV1)
+DEP	1	6/28/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	6/28/2016	Noise	Noise: air condition/ventilation equipment (NV1)
+NYPD	1	6/28/2016	Noise - Residential	Banging/Pounding
+NYPD	1	6/28/2016	Noise - Commercial	Loud Music/Party
+NYPD	1	6/28/2016	Noise - Commercial	Loud Music/Party
+DEP	1	6/29/2016	Noise	Noise: Jack Hammering (NC2)
+NYPD	1	6/30/2016	Noise - Residential	Loud Talking
+NYPD	1	6/30/2016	Noise - Residential	Banging/Pounding
+NYPD	1	6/30/2016	Noise - Residential	Loud Music/Party
+DEP	1	6/30/2016	Noise	Noise: air condition/ventilation equipment (NV1)
+NYPD	1	7/1/2016	Noise - Commercial	Loud Music/Party
+NYPD	1	7/1/2016	Noise - Residential	Loud Talking
+NYPD	1	7/1/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/1/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/1/2016	Noise	Noise: Alarms (NR3)
+NYPD	1	7/1/2016	Noise - Commercial	Car/Truck Horn
+NYPD	1	7/1/2016	Noise - Commercial	Car/Truck Horn
+NYPD	1	7/2/2016	Noise - Commercial	Car/Truck Horn
+NYPD	1	7/2/2016	Noise - Commercial	Banging/Pounding
+DEP	1	7/2/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/2/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/2/2016	Noise	Noise, Ice Cream Truck (NR4)
+DEP	1	7/2/2016	Noise	Noise: Jack Hammering (NC2)
+DEP	1	7/2/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/3/2016	Noise - Commercial	Banging/Pounding
+NYPD	1	7/3/2016	Noise - Commercial	Banging/Pounding
+DEP	1	7/3/2016	Noise	Noise: Jack Hammering (NC2)
+DEP	1	7/3/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/3/2016	Noise - Residential	Banging/Pounding
+DEP	1	7/3/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/3/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/4/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/4/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/5/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/5/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/5/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	7/5/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	7/5/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/6/2016	Noise - Residential	Banging/Pounding
+DEP	1	7/6/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/7/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/7/2016	Noise	Noise: Alarms (NR3)
+NYPD	1	7/8/2016	Noise - Commercial	Car/Truck Music
+DEP	1	7/8/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/8/2016	Noise - Residential	Banging/Pounding
+DEP	1	7/8/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
+DEP	1	7/9/2016	Noise	Noise: Construction Before/After Hours (NM1)
+DEP	1	7/9/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
+NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
+NYPD	1	7/9/2016	Noise - Residential	Banging/Pounding
+DEP	1	7/9/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/10/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/10/2016	Noise	Noise: air condition/ventilation equipment (NV1)
+NYPD	1	7/10/2016	Noise - Commercial	Loud Music/Party
+NYPD	1	7/11/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/11/2016	Noise	Noise: Alarms (NR3)
+DEP	1	7/11/2016	Noise	Noise: air condition/ventilation equipment (NV1)
+NYPD	1	7/11/2016	Noise - Commercial	Loud Music/Party
+DEP	1	7/11/2016	Noise	Noise: Construction Before/After Hours (NM1)
+NYPD	1	7/11/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/11/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/12/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/12/2016	Noise - Residential	Loud Music/Party
+DEP	1	7/12/2016	Noise	Noise: Construction Equipment (NC1)
+NYPD	1	7/12/2016	Noise - Commercial	Banging/Pounding
+NYPD	1	7/13/2016	Noise - Residential	Loud Music/Party
+NYPD	1	7/13/2016	Noise - Commercial	Loud Talking
+NYPD	1	7/13/2016	Noise - Commercial	Banging/Pounding
+DEP	1	7/13/2016	Noise	Noise: Construction Equipment (NC1)
+NYPD	1	7/13/2016	Noise - Residential	Banging/Pounding
+NYPD	1	7/14/2016	Noise - Residential	Banging/Pounding
+				
